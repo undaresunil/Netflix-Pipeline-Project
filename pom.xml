@@ -7,7 +7,7 @@
 	<version>1.2.2</version>
 	<name>Java Home myweb</name>
 	<url>http://maven.apache.org</url>
-//property details
+
 	<properties>
 		<docker.image.prefix>kammana</docker.image.prefix>
 	</properties>	
